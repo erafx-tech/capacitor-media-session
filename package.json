@@ -1,7 +1,7 @@
 {
-  "name": "@jofr/capacitor-media-session",
-  "version": "3.0.4",
-  "description": "Capacitor plugin for media notifications and platform media keys as well as background audio playback",
+  "name": "@erafx-tech/capacitor-media-session-capacitor6",
+  "version": "4.0.0",
+  "description": "Temporary forked version of @jofr/capacitor-media-session to support capacitor 6",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -11,14 +11,14 @@
     "android/build.gradle",
     "dist/"
   ],
-  "author": "Jonas <jofr@vivaldi.net>",
+  "author": "Bob <robert@erafx.com>",
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jofr/capacitor-media-session.git"
+    "url": "git+https://github.com/erafx-tech/capacitor-media-session.git"
   },
   "bugs": {
-    "url": "https://github.com/jofr/capacitor-media-session/issues"
+    "url": "https://github.com/erafx-tech/capacitor-media-session/issues"
   },
   "keywords": [
     "capacitor",

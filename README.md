@@ -1,4 +1,11 @@
+
 # capacitor-media-session
+
+
+## WARNING
+
+This is a temporary fork of the original plugin to support capacitor 6.  This fork is the same as the original, but has applied [PR #27 ](https://github.com/jofr/capacitor-media-session/pull/27) to support capacitor 6.  There are no plans to maintain this plugin fork beyond the original PR.  Please use the original plugin if you are using capacitor 5.
+
 
 Capacitor plugin for Media Sessions on Web, Android and iOS. Just like the [Media Session Web API](https://w3c.github.io/mediasession/) this enables
 - customizable media playback notifications (including controls) on iOS, Android and some browsers
